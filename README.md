@@ -42,7 +42,7 @@ I specialize in **systems architecture**, **tools engineering**, and squeezing u
 
 Pinned repos below have the code. For the full picture — shipped games, tools, and how it's all built:
 
-**🌐 [tobiaszmazurek.github.io](https://tobiaszmazurek.github.io/)**
+**🌐 [tobiaszmazurek.github.io](https://internal-quack.github.io/tobiaszmazurek.github.io/)**
 
 ---
 
