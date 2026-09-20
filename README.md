@@ -44,9 +44,11 @@ Pinned repos below have the code. For the full picture — shipped games, tools,
 
 **🌐 [tobiaszmazurek.github.io](https://internal-quack.github.io/tobiaszmazurek.github.io/)**
 
+**🗂️ Older projects (game jams, university work):** [github.com/Tobiasz2817](https://github.com/Tobiasz2817)
+
 ---
 
 ### 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-Tobiasz2817%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Tobiasz2817@outlook.com)
+[![Email](https://img.shields.io/badge/Email-tobiasz7182%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tobiasz7182@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-tobiasz8676-5865F2?style=flat-square&logo=discord&logoColor=white)
